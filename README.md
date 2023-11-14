@@ -38,7 +38,3 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or pr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This introduction provides a clear overview of the repository, including its purpose, key features, how to get started, and information on contributing and licensing. Adjust the content as needed for your specific GitHub repository.
